@@ -1,0 +1,10 @@
+x=float(input("enter first number"));
+y=float(input("enter second number"));
+sum= x+y
+subtract= x-y
+multiply= x*y
+divide= x/y
+print("sum of two no.=",sum)
+print("subtract of two no.=",subtract)
+print("multiply of two no.=",multiply)
+print("divide of two no.=",divide)
